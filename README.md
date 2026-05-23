@@ -51,7 +51,7 @@
 
 <div>
 
-<a href="SEU-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/lian-messias-rebou%C3%A7as-negr%C3%A3o-2b9aa6378/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
