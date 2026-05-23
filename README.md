@@ -1,27 +1,4 @@
-<!--
-██████████████████████████████████████████████████████████████████████
-  LIAN NEGRÃO — GitHub Profile README
-  Style: Dark Blue Neon · Sci-Fi Interface · Japanese Game Aesthetic
-██████████████████████████████████████████████████████████████████████
--->
 
-<div align="center">
-
-<!-- ── HEADER HERO ───────────────────────────────────────────────── -->
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗  ║
-║   ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║  ║
-║   ███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║  ║
-║   ╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║  ║
-║   ███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║  ║
-║   ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝  ║
-║                                                          ║
-║              ⟨ EXECUTING PERSONA PROTOCOL ⟩              ║
-╚══════════════════════════════════════════════════════════╝
-```
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=%F0%9F%8C%8C+Lian+Negr%C3%A3o;Front-End+Developer;Futurist+%C2%B7+Designer+%C2%B7+AI+Enthusiast;%22Technology+and+creativity+build+the+future.%22" alt="Typing SVG" />
 
