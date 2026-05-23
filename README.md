@@ -11,9 +11,13 @@
 ## 🧠 Sobre Mim
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas
+
 🚀 Desenvolvedor Front-End focado em interfaces modernas e experiências visuais
+
 🎯 Apaixonado por tecnologia, design e Inteligência Artificial
+
 🌃 Inspirado por uma estética futurista, tecnológica e minimalista
+
 📍 Salvador - BA
 
 ---
