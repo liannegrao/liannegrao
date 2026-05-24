@@ -17,7 +17,7 @@
 ## 🧠 &nbsp;Sobre Mim
 
 ```
-  💻  Estudante de Análise e Desenvolvimento de Sistemas
+  💻  Técnico de Desenvolvimento de Sistemas
   🚀  Desenvolvedor Front-End focado em interfaces modernas e experiências visuais
   🎯  Apaixonado por tecnologia, design e Inteligência Artificial
   📍  Salvador — BA
